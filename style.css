@@ -129,6 +129,12 @@ h1 {
     color: hsl(228, 45%, 44%);
 }
 
+.the-h1{
+    text-decoration: none;
+}
+.the-h1:hover h1, .the-h1:focus h1{
+    color: var(--yellow);
+}
 
 
 /*======================*/
